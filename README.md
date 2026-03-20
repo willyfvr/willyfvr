@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-Actualmente estoy trabajando en mis propios proyectos y en Bosonic Digital.
+Técnico Programador, con experiencia en desarrollos con Javascript y Java. Especializado en los últimos años en QA Engineer Automation, principalmente en Cypress, e incursiónando en el data analyst y la automatización digital.
 
 
 ## 🌐 Socials:
