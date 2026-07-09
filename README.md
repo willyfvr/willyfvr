@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-Técnico Programador, con experiencia en desarrollos con Javascript y Java. Especializado en los últimos años en QA Engineer Automation, principalmente en Cypress, e incursiónando en el data analyst y la automatización digital.
+Software Developer with experience in JavaScript and Java development. In recent years, I have specialized in automated QA engineering, primarily using Cypress, and have been exploring data analysis and digital automation.
 
 
 ## 🌐 Socials:
